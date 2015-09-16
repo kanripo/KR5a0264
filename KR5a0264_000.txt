@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:43:36.598460
+# -*- mode: mandoku-view -*-
 #+TITLE: 修真十書雜著指玄篇
-#+PROPERTY: DZID  DZ0263a
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—605 八卷 洞真部方法類
+#+DATE: 2015-08-28 23:43:38
+#+PROPERTY:  LASTPB <PB KR5a0264_SJB_008-040630a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶<md:KR5a0264_HFL_008-009b>¶¶¶¶¶¶¶¶¶¶¶
+
