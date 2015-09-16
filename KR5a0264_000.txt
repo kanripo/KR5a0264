@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:43:36.598460
+#+TITLE: 修真十書雜著指玄篇
+#+PROPERTY: DZID  DZ0263a
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—605 八卷 洞真部方法類
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
